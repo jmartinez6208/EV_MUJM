@@ -1,2 +1,4 @@
 Joshua Mateo
 Martinez Urbina
+Java
+SQLServer
